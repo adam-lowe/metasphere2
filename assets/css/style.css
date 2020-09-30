@@ -15,6 +15,9 @@ body, html {
     background-size: cover;
     overflow: scroll;
   }
+  .box {
+    padding-bottom: 5vw;
+  }
   .text-banner {
       text-align: center;
       background-color: black;

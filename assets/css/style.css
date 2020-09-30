@@ -46,4 +46,13 @@ body, html {
       line-height: inherit;
       font-size: 2vw;
   }
+  .space-out {
+    padding-top: 3vw;
+  }
+  .black-box {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 0.5vw;
+  }
   

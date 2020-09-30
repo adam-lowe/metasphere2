@@ -55,4 +55,10 @@ body, html {
     text-align: center;
     padding: 0.5vw;
   }
+  .blue-box {
+    background-color: rgba(100, 204, 255, 0.5); /* 0.1 alpha = 10% opacity */;
+    color: white;
+    text-align: center;
+    padding: 2vw;
+  }
   

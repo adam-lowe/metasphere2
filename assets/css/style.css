@@ -55,6 +55,10 @@ body, html {
     text-align: center;
     padding: 0.5vw;
   }
+.white-box {
+  background-color: white;
+  color: black;
+}
 .blue-box {
     background-color: rgba(100, 204, 255, 0.5); /* 0.1 alpha = 10% opacity */;
     color: white;
@@ -74,5 +78,11 @@ body, html {
 .carousel-control-next-icon{
   height: 4vw;
   width: 4vw;
+}
+.slide-label {
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 64vw;
 }
   

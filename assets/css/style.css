@@ -2,7 +2,7 @@ body, html {
     height: 100%;
     margin: 0;
   }
-  .bg {
+.bg {
     /* The image used */
     background-image: url("../images/BackgroundURLpage01.jpg");
   
@@ -15,10 +15,10 @@ body, html {
     background-size: cover;
     overflow: scroll;
   }
-  .box {
+.box {
     padding-bottom: 5vw;
   }
-  .text-banner {
+.text-banner {
       text-align: center;
       background-color: black;
       color: white;
@@ -28,10 +28,10 @@ body, html {
       margin-top: 1%;
       margin-bottom: 1%;
   }
-  .toward-cover {
+.toward-cover {
       margin-top: 5%;
   }
-  .footer {
+.footer {
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -41,24 +41,38 @@ body, html {
     text-align: center;
     overflow: hidden;
   }
-  .bottom-text {
+.bottom-text {
       color: white;
       line-height: inherit;
       font-size: 2vw;
   }
-  .space-out {
+.space-out {
     padding-top: 3vw;
   }
-  .black-box {
+.black-box {
     background-color: black;
     color: white;
     text-align: center;
     padding: 0.5vw;
   }
-  .blue-box {
+.blue-box {
     background-color: rgba(100, 204, 255, 0.5); /* 0.1 alpha = 10% opacity */;
     color: white;
     text-align: center;
     padding: 2vw;
   }
+.carousel-control-prev{
+    left: -10%;
+}
+.carousel-control-prev-icon{
+    height: 4vw;
+    width: 4vw;
+}
+.carousel-control-next{
+    right: -10%;
+}
+.carousel-control-next-icon{
+  height: 4vw;
+  width: 4vw;
+}
   

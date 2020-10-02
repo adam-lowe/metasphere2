@@ -85,4 +85,13 @@ body, html {
   text-align: center;
   width: 64vw;
 }
+.label-content {
+  padding: 1vw;
+}
+p.label-content {
+  text-align: justify;
+  padding: 3vw;
+  font-size: x-large;
+  line-height: normal;
+}
   

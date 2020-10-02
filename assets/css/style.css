@@ -94,4 +94,9 @@ p.label-content {
   font-size: x-large;
   line-height: normal;
 }
+.label-content.second-label {
+  padding: 3vw;
+  margin: 0;
+  font-weight: normal;
+}
   

@@ -49,6 +49,9 @@ body, html {
 .space-out {
     padding-top: 3vw;
   }
+.push-out {
+  margin-bottom: 1.5vw;
+}
 .black-box {
     background-color: black;
     color: white;
@@ -98,5 +101,21 @@ p.label-content {
   padding: 3vw;
   margin: 0;
   font-weight: normal;
+}
+input {
+  font-size: 2vw;
+}
+button {
+  width: 20%;
+  text-align: center;
+  padding: 1.2vw;
+  background-color: black;
+  border: none;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 0.5vw;
+  font-size: 3vw;
+  cursor: pointer;
 }
   

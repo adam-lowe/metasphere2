@@ -118,7 +118,7 @@ input {
 button {
   width: 20%;
   text-align: center;
-  padding: 1.2vw;
+  padding: 0.1vw;
   background-color: black;
   border: none;
   color: white;
@@ -127,5 +127,15 @@ button {
   margin-left: 0.5vw;
   font-size: 3vw;
   cursor: pointer;
+  margin-left: 8.3vw;
+  margin-right: 8.3vw;
+}
+
+@media only screen and (min-width: 955px) {
+  button {
+    margin-left: 0.5vw;
+    margin-right: 0vw;
+    padding: 1.2vw;
+  }
 }
   

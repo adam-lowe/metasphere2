@@ -33,9 +33,16 @@ audio {
       margin-top: 1%;
       margin-bottom: 1%;
   }
+.title-curve {
+  max-height: 57vw;
+}
 .toward-cover {
       margin-top: 5%;
+      max-height: 37vw;
   }
+.bio-pic {
+  max-height: 29vw;
+}
 .footer {
     position: absolute;
     bottom: 0;

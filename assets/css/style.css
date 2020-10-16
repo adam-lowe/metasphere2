@@ -80,6 +80,9 @@ audio {
     text-align: center;
     padding: 2vw;
   }
+.no-margin {
+  margin: 0;
+}
 .carousel-control-prev{
     left: -10%;
 }
